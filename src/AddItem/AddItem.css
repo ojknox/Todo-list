@@ -1,0 +1,59 @@
+.AddItem {
+    text-align: center;
+}
+
+.AddItem input {
+    padding: 0.88rem;
+    border: 1px solid #74ECE8;
+    font-size: 1rem;
+    width: 60%;
+    background-color: transparent;
+    border-radius: 3px;
+    color: #336967;
+}
+
+
+.AddButton {
+    cursor: pointer; 
+    padding: 0.88rem;
+    text-align:center;
+    font-size: 1rem;
+    border: 1px solid #74ECE8;
+    background-color: #74ECE8;
+    transition: all 250ms;
+    border-radius: 3px;
+    margin-left: 3px;
+    color: #336967;
+}
+
+.AddButton:hover {
+    opacity: 0.5;
+}
+
+.mobileAdd {
+    display: none;
+}
+
+@media only screen and (max-width: 480px) {
+    .AddButton {
+        display: none;
+    }
+    
+    .mobileAdd{
+        display: inline;
+        cursor: pointer;
+        padding: 0.88rem;
+        background-color: #74ECE8;
+        border: 1px solid #74ECE8;
+        border-radius: 3px;
+        margin-left: 3px;
+    }
+
+    .mobileAdd:hover {
+        opacity: 0.5;
+    }
+
+    .plus {
+        color: #336967;
+    }
+  }
