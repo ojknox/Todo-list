@@ -1,6 +1,6 @@
 # To do list 
 
-In this project I created a to do list from scratch using React. This was a project I worked on outside of any of the online courses I was doing. 
+This is a project I created to practice my React skills. I worked on this project outside of the online courses I was doing. 
 
 ## Overview
 
@@ -10,4 +10,12 @@ My aim was to create a to do list where the user can add, delete and edit the ta
 
 - HTML5
 - CSS3
+- Javascript
 - React
+
+###Screenshot 
+![](./screenshot.jpg)
+
+###Link
+
+- URL: [https://ojknox.github.io/Todo-list/](https://ojknox.github.io/Todo-list/)
