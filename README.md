@@ -13,9 +13,9 @@ My aim was to create a to do list where the user can add, delete and edit the ta
 - Javascript
 - React
 
-###Screenshot 
+### Screenshot 
 ![](./todo1.jpg)
 
-###Link
+### Link
 
 - URL: [https://ojknox.github.io/Todo-list/](https://ojknox.github.io/Todo-list/)
