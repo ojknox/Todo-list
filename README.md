@@ -14,7 +14,7 @@ My aim was to create a to do list where the user can add, delete and edit the ta
 - React
 
 ###Screenshot 
-![](./screenshot.jpg)
+![](./todo1.jpg)
 
 ###Link
 
